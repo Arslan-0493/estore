@@ -1,0 +1,10 @@
+body{
+    background-color: antiquewhite;
+    text-size-adjust: 0.5rem;
+    text-decoration: aqua;
+    font-family: 'Times New Roman', Times, serif;
+}
+body:hover{
+    background-color: aqua;
+    transform: rotate(90);
+}

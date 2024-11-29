@@ -1,10 +1,13 @@
 body{
-    background-color: antiquewhite;
+
+    background-color:aquamarine;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-size-adjust: 0.5rem;
     text-decoration: aqua;
-    font-family: 'Times New Roman', Times, serif;
+    
 }
 body:hover{
-    background-color: aqua;
+    
     transform: rotate(90);
 }
+

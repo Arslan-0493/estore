@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+button {
+    background-color: yellow;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}

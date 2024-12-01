@@ -1,12 +1,9 @@
 body{
 
-    background-color:aquamarine;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:rgb(100, 218, 178);
+    font-family:'Times New Roman', Times, serif;
     text-size-adjust: 0.5rem;
-    text-decoration: aqua;
-    margin: 5px;
-    padding: 15px;
-
+ 
 }
 body:hover{
     

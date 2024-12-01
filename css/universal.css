@@ -3,6 +3,8 @@ body{
     background-color:rgb(100, 218, 178);
     font-family:'Times New Roman', Times, serif;
     text-size-adjust: 0.5rem;
+font-weight:bold;
+padding:5px;
  
 }
 body:hover{
